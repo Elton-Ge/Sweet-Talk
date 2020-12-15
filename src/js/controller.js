@@ -13,9 +13,9 @@ import { async } from 'regenerator-runtime';
 
 // console.log(icons);
 
-if (module.hot) {
-  module.hot.accept();
-}
+// if (module.hot) {
+//   module.hot.accept();
+// }
 
 // const { async } = require('q');
 
